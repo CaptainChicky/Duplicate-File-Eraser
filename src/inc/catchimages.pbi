@@ -1,0 +1,28 @@
+﻿  UsePNGImageDecoder()
+  
+  CatchImage(#imgicon,?icon)
+  CatchImage(#imgquit,?quit)
+  
+  CatchImage(#imgfilesm,?filesm)
+  CatchImage(#imgfoldersm,?foldersm)
+  CatchImage(#imgscansm,?scansm)
+  CatchImage(#imgupdatesm,?updatesm)
+  CatchImage(#imgaboutsm,?aboutsm)
+  CatchImage(#imgdonatesm,?donatesm)
+  CatchImage(#imgwebsm,?websm)
+  CatchImage(#imgsettingssm,?settingssm)
+  CatchImage(#imgresetsm,?resetsm)
+  CatchImage(#imgremovesm,?removesm)
+  CatchImage(#imgimportsm,?importsm)
+  
+  CatchImage(#imgfilelg,?filelg)
+  CatchImage(#imgfolderlg,?folderlg)
+  CatchImage(#imgscanlg,?scanlg)
+  CatchImage(#imgupdatelg,?updatelg)
+  CatchImage(#imgaboutlg,?aboutlg)
+  CatchImage(#imgdonatelg,?donatelg)
+  CatchImage(#imgweblg,?weblg)
+  CatchImage(#imgsettingslg,?settingslg)
+  CatchImage(#imgresetlg,?resetlg)
+; IDE Options = PureBasic 5.70 LTS (Linux - x64)
+; EnableXP
