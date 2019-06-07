@@ -7,6 +7,6 @@
 </ul>
 
 <h1>How to compile</h1>
-<p> 1) <a href="https://github.com/99fk/Duplicate-File-Eraser.git">Download</a> the source</p>
+<p> 1) <a href="https://github.com/99fk/Duplicate-File-Eraser/archive/master.zip">Download</a> the source</p>
 <p> 2) Extract it to a location of your choice</p>
 <p> 3) Open <b>Duplicate_File_Eraser.pb</b> in PureBasic and hit <b>Compile</b></p>
