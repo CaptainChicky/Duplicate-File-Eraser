@@ -4,6 +4,7 @@
 <h1>Requirements</h1>
 <ul>
 <li><a href="https://www.purebasic.com/">PureBasic</a> to compile the source</li>
+<li>The <a href="https://www.zeronet.io">Zeronet</a> client software to use the Update function and to visit my <a href="http://127.0.0.1:43110/17SWVnHoujG92yYGSZvCzPgZEpGVfRF8wi">website</a></li>
 </ul>
 
 <h1>How to compile</h1>
